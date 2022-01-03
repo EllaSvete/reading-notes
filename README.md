@@ -1,7 +1,7 @@
 # reading-notes
 Reading Notes for Code Fellows
 
-![Name of Image]()
+![Name of Image](/learn-code-image.jpeg)
 
 ## What I learned about a growth mindset 
 
