@@ -2,6 +2,9 @@
 
 ![Name of Image](/learn-code-image.jpeg)
 
+## Table of Contents
+[Growth-Mindset](reading-notes/Growth-Mindset.md)
+
 ## Growth Mindset ##
 
 #### Definition of Growth Mindset: ####
