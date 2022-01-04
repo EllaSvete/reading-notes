@@ -64,6 +64,10 @@
 - An IDE (Integrated Development Environment) is a text editor, a file manager, a compiler, and a debugger all in one software.
 - It is helpful to get familiar with a text editor before utilizing a IDE.
 
+### Linux Tutorial Cheatsheet 1-3 ###
+
+
+
   
     
   
