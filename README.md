@@ -9,3 +9,4 @@
 - [Text-Editor-Notes](Text-Editor-Notes.md)
 - [Linux-Cheatsheet1-3](Linux-Cheatsheet.md)
 - [Read O4-Notes](Read-04-Notes.md)
+- [Read 03-Notes](Read-03-Notes.md)

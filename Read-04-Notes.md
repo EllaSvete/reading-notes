@@ -37,4 +37,3 @@
 - Html is a bunch of boxes
 - Difference between id and class = one make it a id // more than one make it a class
 - Only have 1 id
-
