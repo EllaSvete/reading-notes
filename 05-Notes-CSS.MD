@@ -8,6 +8,7 @@
 
 * CSS is the only way you can visually adjust your website
 
+
 ## CSS Class Notes
 
 - 'Rule': All the CSS styling properties and value that tells and element or a group of elemnents how to look. ex "I wish these words *looked* better
@@ -42,3 +43,15 @@ rbga - a stands for alpa which is for opactiy, point value to control
 * Hex values: a six encoded string made up of the characters of 0-f. Evert two characters that respond to ( red/green/blue )
 '#000000' - white
 '#ffffff' - black
+
+## Moving things
+
+- float: any content that comes after should be on one side or the other side ex float: left;
+- Margin: starting from border, move things away from me example 10px. 
+- Margin-right: 10px;
+- Padding: adding active space, helpful with a border when you don't want content bumping up against the border. Allows negative space inside of an element
+- centering: depends on the relationship from parent to children.
+  - #heading div {
+      width: 150px
+      margin: 0 auto
+  }
