@@ -8,6 +8,39 @@
 - Run natively in the browser
 - Made up of elements
 
+## Html:
+
+- Attributes is something that odfies elements in a specific way
+- Utf8 is telling the browser how these character are being used in coding 
+< meta charset=”utf-8”>
+- The body is every piece of content displayed within browser window
+- Html is a bunch of boxes
+- Difference between id and class = one make it a id // more than one make it a class
+- Only have 1 id
+
+### Semantic elements in HTML
+
+- < article>
+- < aside>
+- < details>
+- < figcaption>
+- < figure>
+- < footer>
+- < header>
+- < main>
+- < mark>
+- < nav>
+- < section>
+- < summary>
+- < time>
+
+* <h1> is to level heading
+
+  - How to make any element *look* like a top level heading.
+* <span style= "font-size:> 32px; margin: 21px 0;">
+    - This will render it to look like a top level heading.
+
+
 ## Wireframe:
 
 - A wireframe is an informative design structure. What a website will start as. 
@@ -28,12 +61,4 @@
 - Let these questions and research inform content
 - Helps get ideas down to shape meeting, to then make a prototype so you aren’t going blindly into that process
 
-## Html:
 
-- Attributes is something that odfies elements in a specific way
-- Utf8 is telling the browser how these character are being used in coding 
-< meta charset=”utf-8”>
-- The body is every piece of content displayed within browser window
-- Html is a bunch of boxes
-- Difference between id and class = one make it a id // more than one make it a class
-- Only have 1 id
