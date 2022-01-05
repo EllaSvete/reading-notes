@@ -65,15 +65,15 @@ Git push origin main
 - How often to make commits?
 The commit is you have achieved something. More commits is better than fewer commits
 
-Git add: adds to list of files that will be changed for commit
-Git status : gives you information about your current local repository 
-Red things are not tracked by git
-Green things are tracked and ready to commit
+- Git add: adds to list of files that will be changed for commit
+- Git status : gives you information about your current local repository 
+- Red things are not tracked by git
+- Green things are tracked and ready to commit
 ‘
 ’” is placed at the root of your repository. 
-‘Git add*’ - asterisk signifies add all the changes 
-Git add README.md folder/’ adds all changes starting from the paths specified
-‘Git add ./’ only going to add changed going downward
-Git commit: saving changes to your version history on your local machine
-Git commit -m “saving photo”
-Git Push: pushes “commits” or every change to GitHub
+- ‘Git add*’ - asterisk signifies add all the changes 
+- Git add README.md folder/’ adds all changes starting from the paths specified
+- ‘Git add ./’ only going to add changed going downward
+- Git commit: saving changes to your version history on your local machine
+- Git commit -m “saving photo”
+- Git Push: pushes “commits” or every change to GitHub
