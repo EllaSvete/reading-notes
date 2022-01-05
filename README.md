@@ -11,4 +11,4 @@
 - [Read O4-Notes](Read-04-Notes.md)
 - [Read 03-Notes](Read-03-Notes.md)
 - [Read 05-Notes](05-Notes-CSS.md)
-- [PowerPoint05] (PowerPoint05.md)
+- [06 Notes](06-Notes-Js.md)
