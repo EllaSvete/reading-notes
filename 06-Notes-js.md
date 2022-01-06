@@ -49,3 +49,9 @@ console.log(content);
 // the value that contains the text data
 content.innerText = age;
 
+<script>
+       let email = prompt( 'what is you your favorite email?');
+       console.log('Sending email to: , email');
+       document.write(email);
+        </script>
+
