@@ -10,5 +10,5 @@
 - [Linux-Cheatsheet1-3](Linux-Cheatsheet.md)
 - [Read O4-Notes](Read-04-Notes.md)
 - [Read 03-Notes](Read-03-Notes.md)
-- [Read 05-Notes](05-Notes-CSS.md)
-- [06 Notes](06-Notes-Js.md)
+- [Read 05-Notes CSS](05-Notes-CSS.md)
+- [06 Notes JS](06-Notes-Js.md)
