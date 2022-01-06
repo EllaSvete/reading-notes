@@ -1,9 +1,27 @@
 
 ## JS
 
+* JavaScript is prototype-based & single threaded
+
 * What is a programming language?
-  * telling a computer what to do using features that computers have available to them. 
-  
+  * telling a computer what to do using features that computers have available to them.
+
+* Where does javascript run?
+  * in web browsers
+
+* The awuthor must include JS code in the html page that the user recieves. The JS code would run in the browser(aka the clinet side) 
+
+* There are 3 major parts of what Javascript refers to 
+   * The language itself
+   * The DOM API- how the language can interactwith various parts of a web page in the browser. 
+   * The server API 
+
+* Any text edutor can be used
+* You can either embed JS code directly inside of HTML file, or you can put a line in the HTML file that will include the external JS link.
+* alert function is the most simple way to interact with JS code running in the browser - rarely used but shows the function of Javascript
+* docuent.write function to change the content of the page - used to change what is shown
+* 
+
 - HTML is content
 - css is look
 - Javascript is behavior
@@ -34,14 +52,26 @@
 - Javascript is loosely tyed which means we can change what type a variable has
 - semicolons are option, but should be consistent - JS lets you choose
 
-## Variables
+### First Class Functions
+
+- First-class functions are functions in language that are treated like any other variable.
+- Variable is reference to a value
+- Use the variable to invoke the function by adding parenthese at the end.
+- Passing the function as an arugment to another function explains how we are treating the function as a value.
+- Using double parentheses to invoke the returned function as well.
+- 
+
+
+
+
+## Variable Examples
 
 'let name  = 'Jacob';
 
 if (age >= 31) {
     document.write('You're old!')
 } else { (age <= 31)
-    document.write(Too young!')
+    document.write('Too young!')
 }
 
 let content = document.getElementById('content-1');
@@ -49,9 +79,8 @@ console.log(content);
 // the value that contains the text data
 content.innerText = age;
 
-<script>
+< script >
        let email = prompt( 'what is you your favorite email?');
        console.log('Sending email to: , email');
        document.write(email);
-        </script>
-
+        < /script >
