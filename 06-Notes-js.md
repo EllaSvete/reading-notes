@@ -59,7 +59,8 @@
 - Use the variable to invoke the function by adding parenthese at the end.
 - Passing the function as an arugment to another function explains how we are treating the function as a value.
 - Using double parentheses to invoke the returned function as well.
-- 
+- confirm inctructs the browser to display a dialog with an optional message
+- prompt method is used to display an optional message prompting the use to input text
 
 
 
