@@ -33,17 +33,36 @@
  }
  '''
 
+ ## Linking CSS:
+
+ <!-- <!DOCTYPE html> -->
+<!-- <html> -->
+<!-- <head> -->
+<!-- <link rel="stylesheet" href="mystyle.css"> -->
+<!-- </head> -->
+<!-- <body> -->
+
+<!-- <h1>This is a heading</h1> -->
+<!-- <p>This is a paragraph.</p> -->
+
+<!-- </body> -->
+<!-- </html> -->
+
 ## Color
 
 * Using a color terms that we know: red, blue, aqua, teal, mauve
 
-* RGD: the additive values of red, green, blue.
+* RGB: the additive values of red, green, blue.
 'color: rgb(255);' - values in the rgb function
 rbga - a stands for alpa which is for opactiy, point value to control
 * CYMK: The addivitve values of cyan, magenta, yellow, and black - uses percentagess and is subtractive values
-* Hex values: a six encoded string made up of the characters of 0-f. Evert two characters that respond to ( red/green/blue )
+* Hex values: a six encoded string made up of the characters of 0-f. Every two characters that respond to ( red/green/blue )
 '#000000' - white
 '#ffffff' - black
+Hex can be a 3 characters like #fff
+* HSL stands for Hue Saturation Lightness
+example: hsl(0,100%,50%)
+can also be hsla
 
 ## Moving things
 
