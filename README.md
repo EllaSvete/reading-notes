@@ -12,3 +12,4 @@
 - [Read 03-Notes](Read-03-Notes.md)
 - [05-Notes-CSS](05-Notes-CSS.md)
 - [06 Notes JS](06-Notes-js.md)
+- [07 Notes Programming with JS](07-programming-notes.md)
