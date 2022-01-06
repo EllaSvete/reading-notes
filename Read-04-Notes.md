@@ -34,7 +34,7 @@
 - < summary>
 - < time>
 
-* <h1> is to level heading
+* < h1 > is to level heading
 
   - How to make any element *look* like a top level heading.
 * <span style= "font-size:> 32px; margin: 21px 0;">
