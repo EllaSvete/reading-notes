@@ -14,3 +14,4 @@
 - [06 Notes JS](06-Notes-js.md)
 - [07 Notes Programming with JS](07-programming-notes.md)
 - [08 Notes jS](08-Notes-js.md)
+- [09 Notes](09-Notes.md)

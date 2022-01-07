@@ -12,6 +12,44 @@ functions:
   - give dvelopers a quick way to get feedback
 - when do we create a new function?
   - every function should have one and only one responsibility, as soon as you're doing something that that function isn't responsible for it should be a new function, that way we can re-use function.
+- strings are compares, and in most cases if the operands are not the same type, JavaScript attempts to convert them to an appropriate type of coparison.
+
+
+- Assignment operators
+  - assign value to it's left operand based on the value of its right operand. The simple assignment operator is (=) which assigns the value of its right operand to its left operand. example:
+  x=f() is an assignment expression that assigns the value of f() to x.
+- Assigning to properties
+  - if the variable refers to an object, then the left-hand side of an assignment expression may make assignments to properties of that variable. example:
+  let obj = {};
+
+obj.x = 3;
+console.log(obj.x); // Prints 3.
+console.log(obj); // Prints { x: 3 }.
+
+const key = "y";
+obj[key] = 5;
+console.log(obj[key]); // Prints 5.
+console.log(obj); // Prints { x: 3, y: 5 }
+
+-  + : increment one (plus)
+- - : decrement one
+- & : logical AND
+- ||: logical OR
+- ! : logical negation / inverse
+
+- Comparison operators
+  - compares its perands and returns a logical value based on whether the comparison is true. Operands can be numerical, string, logical, or object values.
+ 
+  - < : less than
+  - > : greater thn
+  - '!=' : not equal to
+  - !== : returns true is operands are of the same type but not equal, or are different type
+  - '==': is equal to (only compares value)
+  - '===': trictly equal to. (compare value and type)
+  - <== : returns true if the left operand is less than or equal to the right operand
+  - >== : returns true if the left operand is greater than or eual to the right operand
+
+
 
 ## Loops with Programs
 
