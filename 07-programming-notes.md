@@ -1,6 +1,40 @@
 
 # Programming
 
+## Control Flow
+
+- Control flow is the order in which the computer executes statements in a script.
+- When you read a script, you must not only read from startto finish but also look at program structure and how it affects order of execution.
+- Javascript includes controls like *loops* and *functions*
+- if (field==empty) {
+    promptUser();
+} else {
+    submitForm();
+}
+
+- This might run when the user clicks a submit button for the form.
+- Control structures dictate the flows of processing
+- JavaScript functions is executed when "something" invokes it
+example:
+function myFunction(p1, p2) {
+  return p1 * p2;   // The function returns the product of p1 and p2
+}
+
+## Functions
+
+- A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ()
+- You can reuse code with functions, define once and reuse
+  - the code to be executed by the function lives inside curly brackets
+- Function paraemeters are listed inside the () in the function 
+- Function arguments are the values received by the function when it is invoked.
+- invokes means to call the function
+- A return statemnt means the function will stop executing. 
+  - *If the function was invoked from a statement, JavaScript will "return" to execute the code after the invoking statement*
+-
+
+
+
+
 ## How do you put on a jacket
 
 define a function for putting on a  jacket:
