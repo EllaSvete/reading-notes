@@ -25,4 +25,4 @@ Answer 3: No you do not.
 Answer 4: This symbol : > being added on the blacnk lines between paragraphs.  
 Answer 5: A relative link is a link that is relative to the current file, such as a README file.  
 Answer 6: By counting the number of characters that appear before the content of the items.  
-Answer 7: Yes, by using \ before the Markdown character. You would do this when you want to rename a folder for example.  
+Answer 7: Yes, by using \ before the Markdown character. You would do this when you want to rename a folder for example. 

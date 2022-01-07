@@ -27,12 +27,12 @@
 - Javascript is behavior
   
   - Syntax is more apporachable. Characters are more traight forward for a programming language. 
-  - Creating boxes, adding data, talking to another computer such as a submit box or Netflix.
+  - Creating boxes, adding data, talking to another computer such as Netflix.
 
 ### Fundamental concepts
 
 - Data types
-  - string: group of text characters (numbers included) used to represent natural language, like a sentence
+  - string: group of text characters (numbers included) used to represent natural language, like a sentence always in single or double quotations
   - number: a quantitative value that represents all integers and decimals, and fractions
     - 1 or 1/2 or 4.5 or -1, 40000(no coma)
   - boolean: true and false
@@ -51,6 +51,7 @@
 - type always better
 - Javascript is loosely tyed which means we can change what type a variable has
 - semicolons are option, but should be consistent - JS lets you choose
+- when to use the curly brackets: when you want to log a conditional functions. when i want something to happen only when something else happens. The thing the function does is within {}
 
 ### First Class Functions
 
@@ -61,9 +62,22 @@
 - Using double parentheses to invoke the returned function as well.
 - confirm inctructs the browser to display a dialog with an optional message
 - prompt method is used to display an optional message prompting the use to input text
+- If you declare
+
+#### Data types
+
+- number!
+  - let myValue = 6
+- strings - sequence of characters
+  - myName = "banana" <-- quotes make it known to be a string
+- boolean - true / false
+  - let myBoolean = false
 
 
+#### Conditionals
 
+- Conditional logic is 
+if else
 
 ## Variable Examples
 
@@ -76,12 +90,17 @@ if (age >= 31) {
 }
 
 let content = document.getElementById('content-1');
-console.log(content);
-// the value that contains the text data
+console.log(content); // this is how you check it is sent to JS console
 content.innerText = age;
+
+< h1 id='title'>< /h1>
 
 < script >
        let email = prompt( 'what is you your favorite email?');
        console.log('Sending email to: , email');
        document.write(email);
         < /script >
+        
+      // delcare variable to store what is grabbed by our function 
+        document.getElementById('')// looks through code and looks for first thing it find that has ID and grabs that between parentheses.
+

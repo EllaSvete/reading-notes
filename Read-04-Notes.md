@@ -16,7 +16,7 @@
 - The body is every piece of content displayed within browser window
 - Html is a bunch of boxes
 - Difference between id and class = one make it a id // more than one make it a class
-- Only have 1 id
+- Only have 1 id - esepcially so javascript knows what to looks for
 
 ### Semantic elements in HTML
 
@@ -39,6 +39,8 @@
   - How to make any element *look* like a top level heading.
 * <span style= "font-size:> 32px; margin: 21px 0;">
     - This will render it to look like a top level heading.
+
+* The <div> HTML element is the generic container for flow content
 
 
 ## Wireframe:
