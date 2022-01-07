@@ -21,6 +21,17 @@ What is a loop?
 - purpose: do things more
 - syntax: they look a lot like function signature, but instead of parameter, we have a couple of options.
 - 3 types: for, while, do while
+- offers a quick and easy way to do something repeatedly, they repeat an action some number of times.
+
+* Different types of loops:
+  
+  - for statment- repeats loops until a specified condition evaluates to false
+  - do while statement- repeats until specified condition evaluates to false
+  - labeled statement- executes its statements as long as a specified condition evaluates to true.
+  - break statement
+  - continue statement
+  - for...in statement
+  - for... of statement 
 
 '''js
 
