@@ -34,4 +34,7 @@ Whiteboarding / Final Exam! - in 401
 
 - LinkedIn
   - why do you want to ve a software developer? have a clear concrete answer so people know what youre about.
-  
+
+## Entrance Exam
+
+- 

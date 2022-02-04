@@ -17,3 +17,5 @@
 - [09 Notes](09-Notes.md)
 
 ## Code 201 Reading Notes
+
+- [01-Notes] (Read-01.md)

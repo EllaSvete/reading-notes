@@ -124,5 +124,5 @@ do {
    num++;
 } while (num < 10)
 
-for (let times =50; times > 0; times = times -5) {
+for (let i =50; i > 0; i = i -5) {
     console.log('this loop has run' + times + 'many times')}
