@@ -2,7 +2,7 @@
 
 ![Name of Image](/learn-code-image.jpeg)
 
-## Table of Contents
+## Code 102 Reading Notes
 
 - [Growth-Mindset](Growth-Mindset.md)
 - [Markdown-Notes](Markdown-Notes.md)
@@ -15,3 +15,5 @@
 - [07 Notes Programming with JS](07-programming-notes.md)
 - [08 Notes jS](08-Notes-js.md)
 - [09 Notes](09-Notes.md)
+
+## Code 201 Reading Notes
