@@ -22,3 +22,4 @@
 - [02-Notes-201](02-Notes-201.md)
 - [Class 2 201 Lecture](02-lecture-201.md)
 - [03-Notes-201](03-Notes-201.md)
+- [Class 3 201 Lecture](03-lecture-201.md)
