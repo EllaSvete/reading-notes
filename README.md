@@ -26,3 +26,4 @@
 - [04-Notes-201](04-notes-201.md)
 - [Class 4 201 Lecture](04-lecture-201.md)
 - [05-Notes-201](05-notes-201.md)
+- [Class 5 Lecture Notes](05-lecture-201.md)
