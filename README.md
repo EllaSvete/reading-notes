@@ -28,3 +28,5 @@
 - [05-Notes-201](05-notes-201.md)
 - [Class 5 Lecture Notes](05-lecture-201.md)
 - [06-Notes-201](06-notes-201.md)
+- [06-lecture-201](06-lecture-201.md)
+- [07-notes-201](07-notes-201.md)
