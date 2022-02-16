@@ -30,3 +30,5 @@
 - [06-Notes-201](06-notes-201.md)
 - [06-lecture-201](06-lecture-201.md)
 - [07-notes-201](07-notes-201.md)
+- [07-lecture-201](07-lecture-201.md)
+- [08-notes-201](08-notes-201.md)
