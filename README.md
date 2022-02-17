@@ -32,3 +32,4 @@
 - [07-notes-201](07-notes-201.md)
 - [07-lecture-201](07-lecture-201.md)
 - [08-notes-201](08-notes-201.md)
+- [08-lecture-201](08-lecture-201.md)
