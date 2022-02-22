@@ -37,3 +37,4 @@
 - [09-lecture-201](09-lecture-201.md)
 - [10-notes-201](10-notes-201.md)
 - [11-notes-201](11-notes-201.md)
+- [12-notes-201](12-notes-201.md)
