@@ -38,3 +38,6 @@
 - [10-notes-201](10-notes-201.md)
 - [11-notes-201](11-notes-201.md)
 - [12-notes-201](12-notes-201.md)
+- [13-notes-201](12-notes-201.md)
+- [13-lecture-201](13-lecture-201.md)
+- [14-notes-201](14-notes-201.md)
