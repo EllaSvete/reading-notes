@@ -1,8 +1,8 @@
-# Reading Notes for Code Fellows
+# Code Fellows Reading Notes
 
 ![Name of Image](/learn-code-image.jpeg)
 
-## Code 102 Reading Notes
+## Code - 102 Intro to Software Development
 
 - [Growth-Mindset](Growth-Mindset.md)
 - [Markdown-Notes](Markdown-Notes.md)
@@ -16,7 +16,7 @@
 - [08 Notes jS](08-Notes-js.md)
 - [09 Notes](09-Notes.md)
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 - [01-Notes-201](01-Notes-201.md)
 - [02-Notes-201](02-Notes-201.md)
@@ -41,3 +41,7 @@
 - [13-notes-201](12-notes-201.md)
 - [13-lecture-201](13-lecture-201.md)
 - [14-notes-201](14-notes-201.md)
+
+## Code 301 - Intermediate Software Development
+
+- [01-Notes-301](01-notes-301.md)
