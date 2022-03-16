@@ -47,3 +47,4 @@
 - [01-Notes-301](01-notes-301.md)
 - [01-lecture-301](01-lecture-301.md)
 - [02-notes-301](02-notes-301.md)
+- [02-lecture-301](03-lecture-301.md)
