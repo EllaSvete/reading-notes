@@ -50,3 +50,4 @@
 - [02-lecture-301](02-lecture-301.md)
 - [03-notes-301](03-notes-301.md)
 - [03-lecture-301](03-lecture-301.md)
+- [04-notes-301](04-notes-301.md)
