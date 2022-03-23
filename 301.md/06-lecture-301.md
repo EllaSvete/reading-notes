@@ -19,7 +19,9 @@
 ## Anatomy of a URL
 
 - ? notes the beginning of query
+- key = key value pair
 - & notes another set of key-value pairs/ parameters
+- query string inside a URL is called a parameter
 
 ## Axios
 
@@ -68,3 +70,6 @@ let starWarsCharacter = axios.get(/*paste url of data here*/);
   - REACT_APP_LOCATIONIQ_API_KEY
   *set to key value*
 
+- async is passed because it's going through a lot of data
+- letting JS know it could take time
+- 
