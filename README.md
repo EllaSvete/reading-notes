@@ -55,3 +55,7 @@
 - [05-lecture-301](05-lecture-301.md)
 - [06-notes-301](06-notes-301.md)
 - [06-lecture-301](06-lecture-301.md)
+- [07-notes-301](07-notes-301.md)
+- [08-notes-301](08-notes-301.md)
+- [09-notes-301](09-notes-301.md)
+- [10-notes-301](10-notes-301.md)
