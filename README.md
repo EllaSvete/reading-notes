@@ -68,4 +68,5 @@
 ## Code 401 Advanced Software Development in Python
 
 - [Practice in the Terminal](pre-work-terminal-practice.md)
-- []
+- [SQL](pre-work-sql.md)
+- [Growth Mindset](pre-work-growthmindset.md)
