@@ -66,3 +66,6 @@
 - [15-notes-301](15-notes-301.md)
 
 ## Code 401 Advanced Software Development in Python
+
+- [Practice in the Terminal](pre-work-terminal-practice.md)
+- []
