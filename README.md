@@ -70,3 +70,4 @@
 - [Practice in the Terminal](pre-work-terminal-practice.md)
 - [SQL](pre-work-sql.md)
 - [Growth Mindset](pre-work-growthmindset.md)
+- [01 Reading Notes](01-notes-401.md)
