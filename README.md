@@ -73,3 +73,5 @@
 - [01 Reading Notes](01-notes-401.md)
 - [01 Lecture](01-lecture-401.md)
 - [02 Reading Notes](02-notes-401.md)
+-[02 Lecture](02-lecture-401.md)
+- [03 Reading Notes](03-notes-401.md)
