@@ -80,3 +80,4 @@
 - [06 Reading Notes](06-notes-401.md)
 - [07 Reading Notes](07-notes-401.md)
 - [08 Reading Notes](08-notes-401.md)
+- [09 Reading Notes](09-notes-401.md)
