@@ -3,7 +3,8 @@
 - don't think your employer doesnt expect much of you
 - "when I show up a good thing has arrived"
 - graduation
-- resume
+- job search
+- stellar resume
 - phone interview
 - technical interview
 - behavioral interview
