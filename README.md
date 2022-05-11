@@ -88,3 +88,5 @@
 - [14 Reading Notes](14-notes-401.md)
 - [15 Reading Notes](15-notes-401.md)
 - [16 Reading Notes](16-notes-401.md)
+- [17 Reading Notes](17-notes-401.md)
+- [18 Reading Notes](18-notes-401.md)
