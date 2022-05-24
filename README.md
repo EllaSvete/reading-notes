@@ -91,5 +91,5 @@
 - [17 Reading Notes](17-notes-401.md)
 - [18 Reading Notes](18-notes-401.md)
 - [19 Reading Notes](19-notes-401.md)
-- [26 Reading Notes](26-notes-401.md
-)
+- [26 Reading Notes](26-notes-401.md)
+- [27 Reading Notes](27-notes-401.md)
