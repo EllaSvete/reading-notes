@@ -95,3 +95,4 @@
 - [27 Reading Notes](27-notes-401.md)
 - [28 Reading Notes](28-notes-401.md)
 - [29 Reading Notes](29-notes-401.md)
+- [30 Reading Notes](30-notes-401.md)
