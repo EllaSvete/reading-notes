@@ -82,4 +82,23 @@
 
 - What is a “generator” and when might it be useful? If you can, build one for me that demonstrates its usefulness.
   - Generator functions allow you to declare a function that haves like an iterator, allowing programmers to make an iterator in a simple way. 
-  
+
+
+
+## PPH
+
+- Mich Goebig
+
+- entreprener
+- coach in confidence and leadership
+- confidence is NOT a personality ytrait
+- every once in a while doing something that scares you is halthy
+- lean into the fear
+- teaches you that you can do it
+- our brains dislike us doing new things becasue it warns us when we are cuncomfrotable
+- ackowldege the fear and assess the actul dangers
+- when was i most confident?
+- i relate to feeling anxious about something that is out of my control and it kind of ruining the experience. 
+- live in the moment
+- build on failure
+
