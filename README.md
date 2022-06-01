@@ -96,3 +96,6 @@
 - [28 Reading Notes](28-notes-401.md)
 - [29 Reading Notes](29-notes-401.md)
 - [30 Reading Notes](30-notes-401.md)
+- [31 Reading Notes](31-notes-401.md)
+- [32 Reading Notes](32-notes-401.md)
+- [33 Reading Notes](33-notes-401.md)
