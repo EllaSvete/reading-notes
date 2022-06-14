@@ -105,3 +105,4 @@
 - [37 Reading Notes](37-notes-401.md)
 - [38 Reading Notes](38-notes-401.md)
 - [39 Reading Notes](39-notes-401.md)
+- [41 Reading Notes](41-notes-401.md)
