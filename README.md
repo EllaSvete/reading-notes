@@ -108,3 +108,4 @@
 - [41 Reading Notes](41-notes-401.md)
 - [42 Reading Notes](42-notes-401.md)
 - [42 Ethical Notes](42-ethics-401.md)
+- [43 Open Source](43-notes-401.md)
